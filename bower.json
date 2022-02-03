@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "qtepcore-lib",
+  "main": "./qtepcore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://qtep.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "QTEP <foundation@qtep.org>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your qtep project.",
   "moduleType": [
     "globals"
   ],

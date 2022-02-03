@@ -1,22 +1,22 @@
-Qtumcore Library
+Qtepcore Library
 =======
 
-A pure and powerful JavaScript QTUM library.
+A pure and powerful JavaScript QTEP library.
 
 
 ## Get Started
 
 ```
-npm install qtumcore-lib
+npm install qtepcore-lib
 ```
 
 ```
-bower install qtumcore-lib
+bower install qtepcore-lib
 ```
 
 ## Security
 
-We're using qtumcore-lib in production, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
+We're using qtepcore-lib in production, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
 
 
@@ -26,19 +26,19 @@ Please send pull requests for bug fixes, code optimization, and ideas for improv
 
 ## Building the Browser Bundle
 
-To build a qtumcore-lib full bundle for the browser:
+To build a qtepcore-lib full bundle for the browser:
 
 ```sh
 gulp browser
 ```
 
-This will generate files named `qtumcore-lib.js` and `qtumcore-lib.min.js`.
+This will generate files named `qtepcore-lib.js` and `qtepcore-lib.min.js`.
 
 ## Development & Tests
 
 ```sh
-git clone https://github.com/qtumproject/qtumcore-lib
-cd qtumcore-lib
+git clone https://github.com/xcoincoder/qtepcore-lib
+cd qtepcore-lib
 npm install
 ```
 
